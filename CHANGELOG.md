@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.63.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.63.0...v0.63.1) (2024-08-23)
+
+
+### Miscellaneous
+
+* **deps:** update golang.org/x/exp digest (0cdaa3a → 9b4947d) ([#1506](https://github.com/bpg/terraform-provider-proxmox/issues/1506)) ([0623bfd](https://github.com/bpg/terraform-provider-proxmox/commit/0623bfd1561a7a30771685d8fa3f46c9bfb4d1d8))
+* **deps:** update module github.com/golangci/golangci-lint (v1.60.1 → v1.60.2) in /tools ([#1499](https://github.com/bpg/terraform-provider-proxmox/issues/1499)) ([35cbe98](https://github.com/bpg/terraform-provider-proxmox/commit/35cbe98d6b26b47c0b8797dd6d4f084585f846c7))
+* **deps:** update module github.com/golangci/golangci-lint (v1.60.2 → v1.60.3) in /tools ([#1507](https://github.com/bpg/terraform-provider-proxmox/issues/1507)) ([5707fea](https://github.com/bpg/terraform-provider-proxmox/commit/5707feab06750a4782e66c0be0e5cc2edd612aa0))
+
 ## [0.63.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.62.0...v0.63.0) (2024-08-21)
 
 
